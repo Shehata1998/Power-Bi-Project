@@ -112,6 +112,12 @@ Dashboard
 
 <img width="1373" height="687" alt="image" src="https://github.com/user-attachments/assets/0e48717f-be16-4d35-bdf3-ce932b7ed71e" />
 
+<img width="1037" height="702" alt="image" src="https://github.com/user-attachments/assets/e916bf4a-507b-4c24-8c93-b26db506c579" />
+
+<img width="1080" height="732" alt="image" src="https://github.com/user-attachments/assets/6e4dd009-d844-40af-934c-90b9816b2310" />
+
+
+
 
 
 👤Author
