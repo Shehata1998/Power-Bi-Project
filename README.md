@@ -2,6 +2,8 @@
 
 This project demonstrates the development of a Power BI reporting solution using data from SQL Server and local files. The data was extracted, transformed, modeled, and visualized to provide meaningful business insights through interactive dashboards and reports.
 
+
+
 🧱Data Sources
 
 The project uses multiple data sources:
@@ -12,6 +14,8 @@ Data was retrieved using SQL queries and database connections.
 Local Files
 Excel/CSV files containing supplementary business data.
 Used to enrich the dataset and support additional analysis.
+
+
 
 🎯Data Preparation
 
@@ -25,6 +29,8 @@ Handling missing values
 Renaming and formatting columns
 Creating calculated columns where necessary
 Merging and appending datasets
+
+
 
 🛠️Data Modeling
 
@@ -59,7 +65,10 @@ Drill-through functionality
 Dynamic KPIs
 Data-driven visualizations
 
+
+
 📁Key Features
+
 Interactive filters and slicers
 Drill-through functionality
 Dynamic KPIs
@@ -78,6 +87,8 @@ Build a data model and define relationships.
 Create DAX measures and calculations.
 Design dashboards and reports.
 Publish and share insights.
+
+
 Repository Contents
 ├── PowerBI_Report.pbix
 ├── SQL/
@@ -90,6 +101,9 @@ Repository Contents
 Screenshots
 
 screenshots of your dashboards here.
+Model (Digram)
+
+<img width="1217" height="742" alt="image" src="https://github.com/user-attachments/assets/261b833c-4c2a-4a2f-85da-fc4fe2a94462" />
 
 👤Author
 
