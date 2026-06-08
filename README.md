@@ -101,9 +101,18 @@ Repository Contents
 Screenshots
 
 screenshots of your dashboards here.
+
 Model (Digram)
 
 <img width="1217" height="742" alt="image" src="https://github.com/user-attachments/assets/261b833c-4c2a-4a2f-85da-fc4fe2a94462" />
+
+Dashboard
+
+<img width="1372" height="716" alt="image" src="https://github.com/user-attachments/assets/fdc27198-e9d5-4405-9daf-dc5fd45ba5be" />
+
+<img width="1373" height="687" alt="image" src="https://github.com/user-attachments/assets/0e48717f-be16-4d35-bdf3-ce932b7ed71e" />
+
+
 
 👤Author
 
